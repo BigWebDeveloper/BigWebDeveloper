@@ -65,7 +65,7 @@
 <br/>
 
 # 📊 GitHub Stats:
-
+<!--
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=an525ish&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private==true" alt="an525ish" /></td>
@@ -73,7 +73,7 @@
   </tr>
 </table>
 
-<!-- --- -->
+-->
 
 <div align="center">
   <p>
